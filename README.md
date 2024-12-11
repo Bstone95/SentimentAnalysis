@@ -1,1 +1,2 @@
-# SentimentAnalysis
+# SentimentAnalysis at Lamar University
+Sentiment Analysis utilizing a Large Language Model provided by HuggingFace Worked with Python to pull data from Reddit, create pipeline, and run the LLM. Data was stored in CSV files where LLM would obtain comments and apply Sentiment Analysis.  I worked with pre-trained models and compared them to self-treained models to understand consistency in relevant data and how mentalhealth is currently being influenced by post-Covid internet activity.  This was done as a Research Internship in works with Lamar University
